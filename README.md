@@ -20,11 +20,9 @@ An AI-powered virtual assistant that crawls website content to provide instant, 
    pip install streamlit beautifulsoup4 requests
 Start the application:
 
-bash
-Copy
-Edit
 streamlit run home.py
-Tech Stack
+
+##Tech Stack
 Python
 
 Streamlit
